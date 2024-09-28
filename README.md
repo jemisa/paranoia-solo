@@ -1,17 +1,18 @@
-# Um dia no Complexo Alfa
+# A day at the Alfa Complex
 
-***Este é o Complexo Alfa. Uma metrópole futurista controlada por um computador louco, que se comporta como um tirano fascista.  Totalmente paranóico, o Computador vê traidores em toda parte e zela pela felicidade dos cidadãos - nem que pare isso precise matar todos! Você é feliz cidadão? Não?! ZIOUF! Você foi desintegrado, um clone está vindo substituí-lo...***
+***This is the Alpha Complex. A futuristic metropolis controlled by a mad computer that behaves like a fascist tyrant.  Totally paranoid, the Computer sees traitors everywhere and sees to the happiness of its citizens - even if it has to kill them all! Are you a happy citizen? No! ZIOUF! You've been disintegrated, a clone is coming to replace you...***
 
-O Complexo Alfa é completamente fechado, sem regiões ao ar livre. Um vasto labirinto de corredores coloridos. As pessoas são classificadas por cores que determinam seus níveis de segurança, de acordo com os critérios do Computador. Desobedecer a um cidadão de Nível de Segurança superior ao seu é traição. Ser comunista é traição (embora você nem faça idéia do que seja um comunista). Pertencer a uma sociedade secreta é traição. Traição é punida com a morte.
+The Alpha Complex is completely enclosed, with no outdoor areas. A vast maze of colored corridors. People are classified by colors that determine their security levels, according to the Computer's criteria. Disobeying a citizen with a higher Security Level than yours is treason. Being a communist is treason (although you have no idea what a communist is). Belonging to a secret society is treason. Treason is punishable by death.
 
-O computador preparou esta aventura-solo para divertir você, cidadão. Tome suas decisões e siga as instruções. Deixar de seguir as instruções é traição. Traição é punida com a morte.
+The computer has prepared this solo adventure to entertain you, the citizen. Make your decisions and follow the instructions. Failure to follow the instructions is treason. Treason is punishable by death.
 
-Tenha um boa aventura, cidadão.
+Have a nice adventure, citizen.
 
-[Começe aqui.](https://joaopaulog.github.io/paranoia/1.html)
+Start from 1
 
 ### Disclaimer!
 
-Essa aventura foi publicada na revista [Dragão Brasil](https://pt.wikipedia.org/wiki/Dragão_Brasil) Nº 96, assinado por GRAHAL.
+This is originally in Portuguese. Machine-translated to English.
 
-Obrigado ao trio Marcelo Cassaro, Rogério Saladino e J.M. Trevisan pelos saudodos textos da revista!
+This adventure was published in the magazine [Dragão Brasil](https://pt.wikipedia.org/wiki/Dragão_Brasil) No. 96, signed by GRAHAL.
+Thanks to the trio Marcelo Cassaro, Rogério Saladino and J.M. Trevisan for the great texts in the magazine!
